@@ -1,0 +1,17 @@
+.clearfix {
+	overflow: auto;
+  }
+/* Kotak Flexbox */
+.kotakflex{
+	display: flex;
+	flex-wrap: wrap;
+	padding: 10px;
+
+	background-color: green;
+}
+.kotakkecil{
+    margin: 10px;
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+}
